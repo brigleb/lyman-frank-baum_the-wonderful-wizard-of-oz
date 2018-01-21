@@ -47,21 +47,17 @@
 		<meta property="meta-auth" refines="#subject-12">https://www.gutenberg.org/ebooks/55</meta>
 		<meta property="meta-auth" refines="#subject-13">https://www.gutenberg.org/ebooks/55</meta>
 		<meta property="meta-auth" refines="#subject-14">https://www.gutenberg.org/ebooks/55</meta>
-		<meta property="se:subject">TAG</meta>
-		<dc:description id="description">DESCRIPTION</dc:description>
+		<meta property="se:subject">Fantasy</meta>
+		<dc:description id="description">The adventures of a young farm girl named Dorothy in the magical Land of Oz, after she and her pet dog Toto are swept away from their Kansas home by a cyclone.</dc:description>
 		<meta property="meta-auth" refines="#description">https://standardebooks.org</meta>
-		<meta id="long-description" property="se:long-description" refines="#description"> LONGDESCRIPTION </meta>
-		<meta property="meta-auth" refines="#long-description">https://standardebooks.org</meta>
 		<dc:language>en-US</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/55</dc:source>
-		<meta property="se:production-notes">Any special notes about the production of this ebook for future editors/producers? Remove this element if not.</meta>
 		<meta property="se:word-count">WORDCOUNT</meta>
 		<meta property="se:reading-ease.flesch">READINGEASE</meta>
 		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/The_Wonderful_Wizard_of_Oz</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/lyman-frank-baum_the-wonderful-wizard-of-oz</meta>
 		<dc:creator id="author">Lyman Frank Baum</dc:creator>
-		<meta property="file-as" refines="#author">AUTHORSORT</meta>
-		<meta property="se:name.person.full-name" refines="#author">AUTHORFULLNAME</meta>
+		<meta property="file-as" refines="#author">Baum</meta>
 		<meta property="se:url.encyclopedia.wikipedia" refines="#author">https://en.wikipedia.org/wiki/Lyman_Frank_Baum</meta>
 		<meta property="se:url.authority.nacoaf" refines="#author">http://id.loc.gov/authorities/names/n80110912</meta>
 		<meta property="role" refines="#author" scheme="marc:relators">aut</meta>
